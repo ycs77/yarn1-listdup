@@ -1,5 +1,9 @@
 # yarn1-listdup
 
+[![NPM version][ico-version]][link-npm]
+[![Software License][ico-license]](LICENSE)
+[![Total Downloads][ico-downloads]][link-downloads]
+
 List duplicate dependencies in yarn.lock file v1.
 
 ## Installation
@@ -27,3 +31,9 @@ yarn1-listdup
 ## LICENSE
 
 Under the [MIT LICENSE](LICENSE.md)
+
+[ico-version]: https://img.shields.io/npm/v/yarn1-listdup?style=flat-square
+[ico-license]: https://img.shields.io/badge/license-MIT-brightgreen?style=flat-square
+[ico-downloads]: https://img.shields.io/npm/dt/yarn1-listdup?style=flat-square
+[link-npm]: https://www.npmjs.com/package/yarn1-listdup
+[link-downloads]: https://www.npmjs.com/package/yarn1-listdup
