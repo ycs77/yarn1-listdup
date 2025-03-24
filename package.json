@@ -1,0 +1,19 @@
+{
+  "name": "yarn1-listdup",
+  "type": "module",
+  "version": "1.0.0",
+  "description": "List duplicate dependencies in yarn.lock file v1.",
+  "license": "MIT",
+  "homepage": "https://github.com/ycs77/yarn1-listdup",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ycs77/yarn1-listdup.git"
+  },
+  "bin": "bin/yarn1-listdup.js",
+  "files": [
+    "index.js"
+  ],
+  "dependencies": {
+    "picocolors": "^1.1.1"
+  }
+}
