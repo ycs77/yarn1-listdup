@@ -13,7 +13,13 @@
   "files": [
     "index.js"
   ],
+  "scripts": {
+    "release": "bumpp --commit \"Release v%s\" && npm publish"
+  },
   "dependencies": {
     "picocolors": "^1.1.1"
+  },
+  "devDependencies": {
+    "bumpp": "^10.1.0"
   }
 }
