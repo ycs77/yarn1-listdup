@@ -4,7 +4,7 @@
 [![Software License][ico-license]](LICENSE)
 [![Total Downloads][ico-downloads]][link-downloads]
 
-List duplicate dependencies in yarn.lock file v1.
+List duplicate dependencies in yarn.lock file v1, use with [yarn-deduplicate](https://github.com/scinos/yarn-deduplicate).
 
 ## Installation
 
